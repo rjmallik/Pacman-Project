@@ -1,4 +1,4 @@
-Artificial Intelligence Agents Project
+AI Agents Project
 
 Hello!
 
