@@ -2,7 +2,7 @@ AI Agents Project
 
 Hello!
 
-This repository contains all the materials and source code for my personal exploration and development of Artificial Intelligence agents, built on top of foundational work from the UCSC CSE 140: Artificial Intelligence course. While this is an independent project, I want to acknowledge and thank the course staff and contributors whose excellent materials served as a starting point for much of this work.
+This repository contains all material and  code for my personal exploration and development of Artificial Intelligence agents, built on top of foundational work from the UCSC's AI/ML course. While this is an independent project, I want to acknowledge and thank the course staff and contributors whose excellent materials served as a starting point for much of this work.
 
 Credits:
 A Python implementation of artificial intelligence search algorithms to solve problems within the Berkeley Pac-Man environment. The Pac-Man Projects, developed at UC Berkeley, apply AI concepts to the classic arcade game. I help Pac-Man find food, avoid ghosts, and maximize his game score using uninformed and informed state-space search, probabilistic inference, and reinforcement learning. Special thanks to the CSE 140 teaching team and the maintainers of the LINQS Pac-Man repository for providing an engaging framework and high-quality resources. This project builds on their foundations with extensions, modifications, and additional experiments conducted as part of my own learning and research into AI agent design.
